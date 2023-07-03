@@ -15,7 +15,7 @@ This Python script in Jupyter notebooks allows you to easily convert HTML files 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/serp-ai/html-markdown-converter.git
+   git clone https://github.com/serp-ai/html-markdown-converter-and-reverse.git
    ```
 
 2. Install the required dependencies:
