@@ -15,12 +15,14 @@ This Python script in Jupyter notebooks allows you to easily convert HTML files 
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/serp-ai/html-markdown-converter.git```
+   git clone https://github.com/serp-ai/html-markdown-converter.git
+   ```
 
 2. Install the required dependencies:
 
    ```shell
-   pip install pandas html2text markdown```
+   pip install pandas html2text markdown
+   ```
 
 ## Usage
 
